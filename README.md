@@ -25,6 +25,7 @@ Dibuat menggunakan fungsi OpenCV seperti `cv2.rectangle()`, `cv2.circle()`, `cv2
 ## Operasi Aritmatika & Bitwise
   1. Bitwise OR (gabungkan dengan background)
   2. AddWeighted (efek pencahayaan transparan)
+     
       <img width="504" height="498" alt="image" src="https://github.com/user-attachments/assets/8f6e2ef0-8161-4cb8-b901-5cfe3d51146a" />
       <img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/86c4791f-d5ee-451a-aa56-858def4175eb" />
       <img width="502" height="496" alt="image" src="https://github.com/user-attachments/assets/63552d07-ffc8-497e-9d5e-63bf3b9b28d1" />
